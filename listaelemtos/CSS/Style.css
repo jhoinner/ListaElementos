@@ -1,0 +1,33 @@
+ul{
+    border: 0.5em inset rgb(250, 252, 180);
+   }
+   button{
+    border: 0.5em inset rgb(250, 252, 180);
+   }
+   h1{
+       text-align: center;
+       background: rgb(250, 252, 180);
+   }
+   button{
+       display: block;
+       margin-left: 6em;
+       margin-top: 3em;
+   }
+   label{
+       margin-right: 5em;
+       border: 0.5em inset rgb(250, 252, 180);
+   }
+   input{
+       margin-right: 5em;
+       border: 0.5em inset rgb(250, 252, 180);
+   }
+
+   body{
+       margin: 0 auto;
+       text-align:left;
+       width:70%;
+       background:"images/guku.png" 
+   }
+   ul{
+       text-align: center;
+   }
